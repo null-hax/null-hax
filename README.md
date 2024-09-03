@@ -1,4 +1,4 @@
-### Hi, I'm `hax` 👋
+### Hi, I'm hax 👋
 
 🖥️🎨 Frontend Engineer | Product Strategist | UX/UI Enthusiast
   
@@ -6,9 +6,9 @@
 💻 Crafting next-gen interfaces with code, AI, and creative vision  
 🧠 Transforming complex concepts into intuitive digital experiences  
   
-🛠️ Tech: JavaScript, React, Vue.js, HTML5, CSS3, Stable Diffusion  
-🎨 AI Art: Latent space exploration, Prompt engineering, Custom model fine-tuning  
-📊 Product: AI Integration, System Design, User-Centered Innovation, A/B Testing  
+🛠️ **Tech**: JavaScript, React, HTML5, CSS3, Python  
+🎨 **Design**: Figma, Adobe Creative Suite, Stable Diffusion, ComfyUI 
+📊 **Product**: AI Integration, Process and Prioritization, System Design, User-Centered Innovation, A/B Testing  
   
 🔬 Current focus: Orchestrating AI agents to revolutionize application interfaces  
 🎵 Electronic music producer & 🎮 Avid gamer  
