@@ -7,7 +7,7 @@
 🧠 Transforming complex concepts into intuitive digital experiences  
   
 🛠️ **Tech**: JavaScript, React, HTML5, CSS3, Python  
-🎨 **Design**: Figma, Adobe Creative Suite, Stable Diffusion, ComfyUI 
+🎨 **Design**: Figma, Adobe Creative Suite, Stable Diffusion, ComfyUI  
 📊 **Product**: AI Integration, Process and Prioritization, System Design, User-Centered Innovation, A/B Testing  
   
 🔬 Current focus: Orchestrating AI agents to revolutionize application interfaces  
