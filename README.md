@@ -14,8 +14,6 @@
 🎵 Electronic music producer & 🎮 Avid gamer  
 🏂 Snowboarder - finding flow in digital and physical spaces  
   
-🌉 Bay Area based, open to remote collaborations  
-  
 💡 "Navigating the latent space between human and machine creativity"  
   
 📫 Open to groundbreaking projects at the frontier of AI and human-computer interaction
