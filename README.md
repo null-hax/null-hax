@@ -1,22 +1,4 @@
 ### Hi, I'm hax 👋
-
-🖥️🎨 Frontend Engineer | Product Strategist | UX/UI Enthusiast
-  
-🚀 Pioneering the intersection of AI, design, and product development  
-💻 Crafting next-gen interfaces with code, AI, and creative vision  
-🧠 Transforming complex concepts into intuitive digital experiences  
-  
-🛠️ **Tech**: JavaScript, React, HTML5, CSS3, Python  
-🎨 **Design**: Figma, Adobe Creative Suite, Stable Diffusion, ComfyUI  
-📊 **Product**: AI Integration, Process and Prioritization, System Design, User-Centered Innovation, A/B Testing  
-  
-🔬 Current focus: Orchestrating AI agents to revolutionize application interfaces  
-🎵 Electronic music producer & 🎮 Avid gamer  
-🏂 Snowboarder - finding flow in digital and physical spaces  
-  
-💡 "Navigating the latent space between human and machine creativity"  
-  
-📫 Open to groundbreaking projects at the frontier of AI and human-computer interaction
 <!--
 **null-hax/null-hax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
