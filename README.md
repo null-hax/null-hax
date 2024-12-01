@@ -1,6 +1,9 @@
-### Hi, I'm hax 👋
-
-[Infinite Backrooms](https://backrooms.nullhax.com/) - LLM Backrooms explorer  
+### Hi, I'm hax 👋  
+  
+audiovisual alchemist and creative technologist.  
+  
+[InfiniteUpscale](https://www.infinite-upscale.com/) - InfiniteUpscale  
+[LLM Backrooms](https://backrooms.nullhax.com/) - LLM Backrooms explorer  
 [Keycrafter](https://null-hax.github.io/keycrafter/) - Keyframe assistant tool
 <!--
 **null-hax/null-hax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
